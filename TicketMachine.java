@@ -32,7 +32,7 @@ public class TicketMachine
         total = 0;
     }
 
-    /**
+    /** 
      * Return the price of a ticket.
      */
     public int getPrice()

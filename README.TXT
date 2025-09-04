@@ -20,4 +20,8 @@ How to start this project: Create one or more TicketMachine objects.
    already inserted and it doesn't refund the money.
 5. Even after creating another ticket machine object, nothing has changed compared
    to the first one.
-6.
+7. Yes, it matters how we write it because switching class and public would ruin the code
+   and it would become useless
+8. Yes it is possible and even after removing it, it doesn't really show a diffrence
+9. No, the word class has to stay there no matter what for the code to function
+10.
