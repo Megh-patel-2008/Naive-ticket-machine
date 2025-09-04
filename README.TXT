@@ -20,3 +20,4 @@ How to start this project: Create one or more TicketMachine objects.
    already inserted and it doesn't refund the money.
 5. Even after creating another ticket machine object, nothing has changed compared
    to the first one.
+6.

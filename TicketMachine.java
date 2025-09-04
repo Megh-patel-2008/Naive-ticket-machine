@@ -9,6 +9,8 @@
  * @author David J. Barnes and Michael Kölling
  * @version 7.0
  */
+//Question 7: I changed the public class to class public and the whole code
+//became useless and it won't let me compile
 public class TicketMachine
 {
     // The price of a ticket from this machine.
