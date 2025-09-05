@@ -24,4 +24,18 @@ How to start this project: Create one or more TicketMachine objects.
    and it would become useless
 8. Yes it is possible and even after removing it, it doesn't really show a diffrence
 9. No, the word class has to stay there no matter what for the code to function
-10.
+11.The features of the constructor that make it look unique: a) Same name as the class  b)
+12.The first one is "int", the second one is "Student", the last one is "Server"
+13.The first one is "alive", the second one is "tutor", the last one is "game"
+15.The order of absolutaly matter. I it isnt followed the code will show error
+16.Yes it is necessary for the code to be put in action
+17.???
+18.It belongs to th class "Student"
+19.It has 2 parameters, but im not sure what their type is
+20.Yes we can figure out the constructor's parameter because it would be inside the parentheses
+21.???
+22.I don't get what the challenge exercise is asking me to do
+23.The only difference I see is that getBalance, returns the balance numbre and getPrice, returns the price of the ticket.
+24.I would caracterize it as "How much balance so I have?"
+25.No as long as the "private int balance;" in the TicketMachine isn't changed its supposed to work.
+26.

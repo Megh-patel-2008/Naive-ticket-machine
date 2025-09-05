@@ -30,6 +30,7 @@ public class TicketMachine
         price = cost;
         balance = 0;
         total = 0;
+        
     }
 
     /** 
@@ -49,6 +50,11 @@ public class TicketMachine
         return balance;
     }
 
+    public int getTotal()
+    {
+        return total;
+    }
+    
     /**
      * Receive an amount of money from a customer.
      */
