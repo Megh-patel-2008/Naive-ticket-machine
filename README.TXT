@@ -62,4 +62,5 @@ How to start this project: Create one or more TicketMachine objects.
 37.My cat has green eyes.
 39.I believe it wouldn't get the "price" but it print the word "prince" only
 40.This would have printed all the words
-41.
+42.They have different outputs but they each have their own price value
+43.
