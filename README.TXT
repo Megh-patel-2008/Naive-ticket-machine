@@ -63,4 +63,5 @@ How to start this project: Create one or more TicketMachine objects.
 39.I believe it wouldn't get the "price" but it print the word "prince" only
 40.This would have printed all the words
 42.They have different outputs but they each have their own price value
-43.
+44.The machines price cannot be changed because it's price is permanently set at 1000 cents
+45.
