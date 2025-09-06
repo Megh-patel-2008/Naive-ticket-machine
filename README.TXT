@@ -38,4 +38,26 @@ How to start this project: Create one or more TicketMachine objects.
 23.The only difference I see is that getBalance, returns the balance numbre and getPrice, returns the price of the ticket.
 24.I would caracterize it as "How much balance so I have?"
 25.No as long as the "private int balance;" in the TicketMachine isn't changed its supposed to work.
-26.
+27.Once I removed "return" from "getPrice" it caused it to tell me "missing return statement"
+28."getPrice" returns "int", while on the other hand "printTicket" has "void" as a return type
+29.No, both of them don't haven a "return" statement.
+31.public void increaseScore(int points)
+{
+    score=score+points;
+}
+32.???
+33.public void discount(int amount)
+{
+    price=price-amount;
+}
+34.public void setAge(int currentAge)
+{
+    age = currentAge;
+}
+35.public void setAlive(boolean value)
+{
+    alive = value;
+}
+36.Even after changing the assignement nothing change in the output
+37.My cat has green eyes.
+38.
